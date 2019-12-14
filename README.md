@@ -1,6 +1,6 @@
 # learngit
 
-官方网站 → https://www.liaoxuefeng.com
+网站 → https://www.liaoxuefeng.com
 
 Git教程 → https://www.liaoxuefeng.com/wiki/896043488029600
 
